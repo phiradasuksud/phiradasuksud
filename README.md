@@ -33,9 +33,6 @@ I am a Computer Science student at the University of Phayao, Thailand. I am inte
 
 ## 🛠️ Tech Stack & Tools
 
-
-## 🛠️ Tech Stack & Tools
-
 ### 🎨 Design Tools
 
 <p align="left">
