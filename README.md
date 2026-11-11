@@ -90,11 +90,13 @@ More projects coming soon!
 
 ---
 
+---
+
 ## 🔥 GitHub Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=phiradasuksud&theme=default&hide_border=true&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2&sideLabels=4A90E2" />
+<img src="https://streak-stats.demolab.com/?user=phiradasuksud&theme=default&hide_border=true&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2&sideLabels=4A90E2&dates=718096" />
 
 </div>
 
