@@ -33,34 +33,32 @@ I am a Computer Science student at the University of Phayao, Thailand. I am inte
 
 ## 🛠️ Tech Stack & Tools
 
-### 🎨 Design & Development Tools
+
+## 🛠️ Tech Stack & Tools
+
+### 🎨 Design Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Canva-4A90E2?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Figma-5B9BD5?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-7BAFE0?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/ADOBE%20PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 </p>
 
-### ✨ Areas of Interest
+### 💻 Development Tools
 
-- UX/UI Design
-- Website Design
-- User-Centered Design
-- Frontend Development
-- Creative Digital Experiences
+<p align="left">
+  <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-<!-- ================= CURRENTLY LEARNING ================= -->
+### 🌐 Web Design Interests
 
-## 📚 Currently Learning
-
-- Improving my UX/UI design skills
-- Exploring website design
-- Learning frontend development
-- Creating better user experiences
-
-<!-- ================= GITHUB ANALYTICS ================= -->
-
----
+<p align="left">
+  <img src="https://img.shields.io/badge/UX%2FUI%20DESIGN-FF69B4?style=flat-square" />
+  <img src="https://img.shields.io/badge/WEBSITE%20DESIGN-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/USER%20EXPERIENCE-20B2AA?style=flat-square" />
+</p>
 
 ## 📊 GitHub Analytics
 
