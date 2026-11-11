@@ -54,12 +54,25 @@ I am a Computer Science student at the University of Phayao, Thailand. I am inte
 
 ### Design & Development Interests
 
+
+## 🛠️ Tech Stack & Tools
+
+### 🎨 Design & Development Tools
+
 <p align="left">
-  <img src="https://img.shields.io/badge/UX%2FUI%20Design-4A90E2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Website%20Design-5B9BD5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/User%20Experience-7BAFE0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Frontend%20Development-8DBCEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Canva-4A90E2?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Figma-5B9BD5?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-7BAFE0?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
 </p>
+
+### ✨ Areas of Interest
+
+- UX/UI Design
+- Website Design
+- User-Centered Design
+- Frontend Development
+- Creative Digital Experiences
+
 
 ### Currently Exploring
 
