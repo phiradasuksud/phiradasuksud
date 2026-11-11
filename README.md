@@ -1,18 +1,18 @@
 
 <!-- ================================= -->
 <!-- PHIRADA | GITHUB PROFILE README -->
-<!-- Minimal Blue Theme -->
+<!-- MINIMAL BLUE PROFESSIONAL THEME -->
 <!-- ================================= -->
 
 <div align="center">
 
-# Hi, I'm Phirada 👋
+# Hello, I'm Phirada 👋
 
 ### Computer Science Student | UX/UI Design Enthusiast
 
-**University of Phayao · Thailand**
+University of Phayao · Thailand
 
-![Profile Views](https://komarev.com/ghpvc/?username=phiradasuksud&color=4A90E2&style=flat-square&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=phiradasuksud&label=Profile%20Views&color=4A90E2&style=flat-square" />
 
 </div>
 
@@ -23,8 +23,8 @@
 I am a Computer Science student at the University of Phayao, Thailand. I am interested in UX/UI Design, especially website design and creating user-friendly interfaces. I enjoy exploring creative ideas and combining design with technology to create beautiful and easy-to-use websites.
 
 - 🎓 Computer Science Student at University of Phayao
-- 🎨 Interested in UX/UI Design and Web Design
-- 💡 Enjoy exploring creative ideas and design concepts
+- 🎨 Interested in UX/UI Design and Website Design
+- 💡 Passionate about creative ideas and digital experiences
 - 🌱 Always learning and improving my skills
 
 ---
@@ -43,17 +43,17 @@ I am a Computer Science student at the University of Phayao, Thailand. I am inte
 
 ### Design Tools
 
-<div align="left">
-
-![Canva](https://img.shields.io/badge/Canva-4A90E2?style=for-the-badge&logo=canva&logoColor=white)
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Canva-4A90E2?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
 
 ### Areas of Interest
 
-![UX UI Design](https://img.shields.io/badge/UX%2FUI_Design-4A90E2?style=flat-square)
-![Web Design](https://img.shields.io/badge/Web_Design-4A90E2?style=flat-square)
-![User Experience](https://img.shields.io/badge/User_Experience-4A90E2?style=flat-square)
+<p align="left">
+  <img src="https://img.shields.io/badge/UX%2FUI%20Design-4A90E2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web%20Design-4A90E2?style=flat-square" />
+  <img src="https://img.shields.io/badge/User%20Experience-4A90E2?style=flat-square" />
+</p>
 
 ---
 
@@ -67,23 +67,31 @@ I am a Computer Science student at the University of Phayao, Thailand. I am inte
 
 ---
 
+## 💻 Projects
+
+I am currently exploring creative ideas and developing my skills in UX/UI Design and Web Development.
+
+More projects coming soon!
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phiradasuksud&show_icons=true&hide_border=true&title_color=4A90E2&icon_color=4A90E2&text_color=4A5568&bg_color=FFFFFF)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=phiradasuksud&show_icons=true&hide_border=true&title_color=4A90E2&icon_color=4A90E2&text_color=4A5568&bg_color=FFFFFF" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phiradasuksud&layout=compact&hide_border=true&title_color=4A90E2&text_color=4A5568&bg_color=FFFFFF)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phiradasuksud&layout=compact&hide_border=true&title_color=4A90E2&text_color=4A5568&bg_color=FFFFFF" />
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Contribution Streak
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=phiradasuksud&theme=default&hide_border=true&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2)
+<img src="https://streak-stats.demolab.com/?user=phiradasuksud&hide_border=true&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2&sideLabels=4A90E2&dates=718096" />
 
 </div>
 
@@ -93,7 +101,9 @@ I am a Computer Science student at the University of Phayao, Thailand. I am inte
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-phiradasuksud-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phiradasuksud)
+<a href="https://github.com/phiradasuksud">
+  <img src="https://img.shields.io/badge/GitHub-phiradasuksud-4A90E2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -101,8 +111,8 @@ I am a Computer Science student at the University of Phayao, Thailand. I am inte
 
 <div align="center">
 
-**Thanks for visiting my profile!**
+### Thanks for visiting my profile! 💙
 
-*Always learning, always creating.* 💙
+*Always learning, always creating.*
 
 </div>
