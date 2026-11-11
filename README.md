@@ -1,8 +1,8 @@
 
-<!-- ================================= -->
-<!-- PHIRADA | GITHUB PROFILE README -->
-<!-- MINIMAL BLUE PROFESSIONAL THEME -->
-<!-- ================================= -->
+<!-- ===================================== -->
+<!-- PHIRADA | GITHUB PROFILE README       -->
+<!-- MINIMAL BLUE PROFESSIONAL THEME       -->
+<!-- ===================================== -->
 
 <div align="center">
 
@@ -79,9 +79,12 @@ More projects coming soon!
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=phiradasuksud&show_icons=true&hide_border=true&title_color=4A90E2&icon_color=4A90E2&text_color=4A5568&bg_color=FFFFFF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phiradasuksud&layout=compact&hide_border=true&title_color=4A90E2&text_color=4A5568&bg_color=FFFFFF" />
+<a href="https://github.com/phiradasuksud">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=phiradasuksud&show_icons=true&hide_border=true&theme=default&title_color=4A90E2&icon_color=4A90E2&text_color=4A5568&bg_color=FFFFFF" />
+</a>
+<a href="https://github.com/phiradasuksud">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phiradasuksud&layout=compact&hide_border=true&theme=default&title_color=4A90E2&text_color=4A5568&bg_color=FFFFFF" />
+</a>
 
 </div>
 
@@ -91,7 +94,7 @@ More projects coming soon!
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=phiradasuksud&hide_border=true&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2&sideLabels=4A90E2&dates=718096" />
+<img src="https://streak-stats.demolab.com/?user=phiradasuksud&theme=default&hide_border=true&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2&sideLabels=4A90E2" />
 
 </div>
 
