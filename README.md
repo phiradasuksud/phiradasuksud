@@ -76,17 +76,17 @@ More projects coming soon!
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center">
 
-<a href="https://github.com/phiradasuksud">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=phiradasuksud&show_icons=true&hide_border=true&theme=default&title_color=4A90E2&icon_color=4A90E2&text_color=4A5568&bg_color=FFFFFF" />
-</a>
-<a href="https://github.com/phiradasuksud">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phiradasuksud&layout=compact&hide_border=true&theme=default&title_color=4A90E2&text_color=4A5568&bg_color=FFFFFF" />
-</a>
+  <!-- GitHub Stats -->
+  <!-- GitHub Stats -->
+  <img src="https://github-stats-extended.vercel.app/api?username=phiradasuksud&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 
-</div>
+  <!-- Top Languages -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=phiradasuksud&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+  <br/><br/>
+
 
 ---
 
